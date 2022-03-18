@@ -31,7 +31,7 @@ Display the overflow toolbar items as an inline of a Blazor toolbar.
 Hide the overflowing toolbar items in the next row. Show the overflowing toolbar items when you click the expand icons. If the pop-up content overflows the height of the page, the rest of the elements will be hidden.
 
 ## Related links
-[Learn More about Blazor Accordion](https://www.syncfusion.com/blazor-components/blazor-toolbar?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
+[Learn More about Blazor Toolbar](https://www.syncfusion.com/blazor-components/blazor-toolbar?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
