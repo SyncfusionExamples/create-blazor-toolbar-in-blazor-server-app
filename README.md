@@ -1,4 +1,4 @@
-# How to Add Syncfusion Blazor Toolbar to a Blazor Server App  
+# How to Add Syncfusion Blazor Toolbar to a Blazor Server App
 
 The [Blazor Toolbar](https://www.syncfusion.com/blazor-components/blazor-toolbar?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples) is a feature-rich component that provides an interface for selecting a command from a collection of commands. A quick overview on how to create and configure Syncfusion Blazor Toolbar in a Blazor server app using Visual Studio 2019. Blazor Toolbar is a collection of clickable icons, buttons or some input elements that performs specific functions, when you click on them. So, in this video, you will learn how to add a simple Blazor Toolbar to a Blazor server app, and then see how to set prefix icons, separators, and display mode. Finally, you will learn how to add input-based components like Numeric Textbox and Dropdown List to the Blazor Toolbar. 
 
@@ -52,7 +52,7 @@ Hide the overflowing toolbar items in the next row. Show the overflowing toolbar
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
 ## About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Toolbar, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram, Word Processor, and more.
+The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Toolbar, we provide popular Blazor Components such as DataGrid, Charts, Scheduler, Diagram, Word Processor, and more.
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
